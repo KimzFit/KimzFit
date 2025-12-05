@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Patcharapon Prompes! 👋
 
-I'm a **Software Engineer** passionate about building accessible web apps and data visualization tools.
+I'm a **Full Stack Developer** passionate about building accessible web apps and data visualization tools.
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **Rust and WebAssembly**
