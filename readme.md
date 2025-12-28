@@ -2,12 +2,12 @@
 
 I'm a **Full Stack Developer** passionate about building accessible web apps and data visualization tools.
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust and WebAssembly**
+- 🔭 I’m currently working on **Point of Sales (POS)**
+- 🌱 I’m currently learning **Database Design**
 - 👯 I’m looking to collaborate on **Open Source React libraries**
 - 💬 Ask me about **JavaScript, Python, and cloud architecture**
-- 📫 How to reach me: **[email@example.com]**
-- ⚡ Fun fact: **I can type 100 words per minute!**
+- 📫 How to reach me: **patcharaponprompes9@gmail.com**
+- ⚡ Fun fact: **I can type 70 words per minute! & Love video games**
 
 ---
 
@@ -15,7 +15,7 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,docker,aws,mysql,linux,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python,fastapi,nodejs,git,docker,postgres,linux,vscode,postman,firebase,figma&perline=6" />
   </a>
 </p>
 
@@ -24,15 +24,19 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimzFit&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimzFit&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimzFit&theme=radical" height="150" alt="streak graph" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimzFit&show_icons=true&theme=transparent)
+
 ---
+
+
 
 ### 🔗 Connect with me
 <p align="left">
