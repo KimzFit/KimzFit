@@ -7,7 +7,7 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 - 👯 I’m looking to collaborate on **Open Source React libraries**
 - 💬 Ask me about **JavaScript, Python, and cloud architecture**
 - 📫 How to reach me: **patcharaponprompes9@gmail.com**
-- ⚡ Fun fact: **I can type 70 words per minute! & Love video games**
+- ⚡ Fun fact: **I can type 70 words per minute!**
 
 ---
 
@@ -23,19 +23,9 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimzFit&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimzFit&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimzFit&theme=radical" height="150" alt="streak graph" />
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimzFit&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KimzFit&theme=dark)](https://git.io/streak-stats)
 
 ---
-
 
 
 ### 🔗 Connect with me
