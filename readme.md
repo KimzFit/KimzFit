@@ -30,7 +30,6 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="your name"/></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="your name"/></a>
+<a href="https://www.linkedin.com/in/patcharapon-prompes-573b3234a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="your name"/></a>
 <a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white" alt="your name"/></a>
 </p>
