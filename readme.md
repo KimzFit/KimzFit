@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** passionate about building accessible web apps and data visualization tools.
 
-- 🔭 I’m currently working on **Point of Sales (POS)**
+- 🔭 I’m currently develop on **Point of Sales (POS)**
 - 🌱 I’m currently learning **Database Design**
 - 👯 I’m looking to collaborate on **Open Source React libraries**
 - 💬 Ask me about **JavaScript, Python, and cloud architecture**
@@ -31,5 +31,5 @@ I'm a **Full Stack Developer** passionate about building accessible web apps and
 ### 🔗 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/patcharapon-prompes-573b3234a/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="your name"/></a>
-<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white" alt="your name"/></a>
+<a href="https://portfolio-myself-30af5.firebaseapp.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome&logoColor=white" alt="your name"/></a>
 </p>
